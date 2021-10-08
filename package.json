@@ -27,7 +27,6 @@
   "files": [
     "dist/",
     "ios/",
-    "android/",
     "CapacitorCommunityTwitter.podspec"
   ],
   "keywords": [
@@ -42,9 +41,6 @@
   "capacitor": {
     "ios": {
       "src": "ios"
-    },
-    "android": {
-      "src": "android"
     }
   },
   "repository": {
